@@ -3,16 +3,16 @@
 # Makefile for Ansible
 #
 # useful targets:
-#   make clean ---------------- clean up
-#   make webdocs -------------- produce ansible doc at docs/docsite/_build/html
-#   make sdist ---------------- produce a tarball
-#   make srpm ----------------- produce a SRPM
-#   make rpm  ----------------- produce RPMs
-#   make deb-src -------------- produce a DEB source
-#   make deb ------------------ produce a DEB
-#   make docs ----------------- rebuild the manpages (results are checked in)
-#   make tests ---------------- run the tests (see https://docs.ansible.com/ansible/devel/dev_guide/testing_units.html for requirements)
-#   make pyflakes, make pep8 -- source code checks
+#   make clean ----------------- clean up
+#   make webdocs --------------- produce ansible doc at docs/docsite/_build/html
+#   make sdist ----------------- produce a tarball
+#   make srpm ------------------ produce a SRPM
+#   make rpm  ------------------ produce RPMs
+#   make deb-src --------------- produce a DEB source
+#   make deb ------------------- produce a DEB
+#   make docs ------------------ rebuild the manpages (results are checked in)
+#   make tests ----------------- run the tests (see https://docs.ansible.com/ansible/devel/dev_guide/testing_units.html for requirements)
+#   make pyflakes, make pep8 --- source code checks
 
 ########################################################
 # variable section
